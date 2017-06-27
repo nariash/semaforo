@@ -1,12 +1,12 @@
 {
-  "name": "electron-quick-start",
+  "name": "semaforo",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Semaphoro Electron application",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/nariash/semaforo",
   "keywords": [
     "Electron",
     "quick",
@@ -14,7 +14,7 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
+  "author": "Nelson Arias Hidalgo",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "~1.6.2"
